@@ -260,10 +260,6 @@ python main.py --data data/raw/ab_data.csv --results results/ --alpha 0.05
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
----
 
-*Built as a portfolio project demonstrating production-grade A/B test analysis with Python.*
